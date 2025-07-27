@@ -41,8 +41,10 @@ This project implements a fully automated Telegram bot that:
    ```bash
    pip install -r requirements.txt
 3. Create a .env or set environment variables:
+   ```bash
    export TELEGRAM_TOKEN="your-telegram-bot-token"
    export OPENROUTER_API_KEY="your-openrouter-key"
-4. Run the bot:
+5. Run the bot:
+   ```bash
    python main.py
 
